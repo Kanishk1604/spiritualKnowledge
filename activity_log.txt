@@ -233,3 +233,4 @@ Documentation updates ✅ at 2024-10-29 12:4:35
 Improved UI/UX ✨ at 2024-10-29 19:57:13
 Documentation updates ✅ at 2024-10-30 14:33:29
 Integrating features 🚀 at 2024-10-30 18:57:50
+Refactoring codebase ✅ at 2024-10-31 4:53:35
