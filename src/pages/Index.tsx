@@ -55,9 +55,9 @@ const Index = () => {
   ];
 
   const devotees = [
-    { id: 1, name: "Manish", role: "Spiritual Seeker" },
-    { id: 2, name: "Rita", role: "Spiritual Seeker" },
-    { id: 3, name: "Ankur", role: "Spiritual Seeker" },
+    { id: 1, name: "Manish", role: "Spiritual Seeker", testimonial: 'Bhagavad Gita Wisdom has truly been my daily companion. The thoughtful insights and AI-powered answers feel like personal guidance in moments of doubt.', },
+    { id: 2, name: "Rita", role: "Spiritual Seeker",testimonial: 'Every day, this app offers me clarity and perspective. The simple yet profound explanations have deepened my connection to spiritual teachings.',},
+    { id: 3, name: "Ankur", role: "Spiritual Seeker",testimonial: 'I love how accessible wisdom becomes with this app. Whether I have a quick question or need daily reflection, it never fails to inspire.', },
   ];
 
   const getRandomAffirmation = () => {
@@ -410,7 +410,7 @@ const Index = () => {
                 </CardHeader>
                 <CardContent>
                   <p className="text-muted-foreground">
-                    "The Bhagawad Wisdom app has been a guiding light in my spiritual journey. The daily verses and problem-solving features have helped me navigate life's challenges with peace and clarity."
+                  "{devotee.testimonial}"
                   </p>
                 </CardContent>
               </Card>
