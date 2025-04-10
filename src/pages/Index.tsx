@@ -74,7 +74,7 @@ const Index = () => {
     <div className="min-h-screen bg-background w-full">
       <nav className="w-full py-4 px-4 md:px-6 flex justify-between items-center border-b border-border">
         <div className="flex items-center">
-          <Link to="/" className="text-xl font-heading font-bold text-gradient mr-8">Bhagwat Wisdom</Link>
+          <Link to="/" className="text-xl font-heading font-bold text-gradient mr-8">bhagawad Wisdom</Link>
           
           <div className="hidden md:flex items-center space-x-1">
             {mainLinks.map((link) => (
@@ -228,7 +228,7 @@ const Index = () => {
           <div className="flex flex-col items-center space-y-4 text-center">
             <div className="space-y-2">
               <h1 className="text-3xl font-heading font-bold tracking-tighter sm:text-4xl md:text-5xl lg:text-6xl text-gradient">
-                Bhagwat Wisdom
+                bhagawad Wisdom
               </h1>
               <p className="mx-auto max-w-[700px] text-muted-foreground md:text-xl">
                 Ancient wisdom from Bhagavad Gita for modern life problems. Discover spiritual guidance, dream interpretations, and daily mantras.
@@ -390,7 +390,7 @@ const Index = () => {
               Spiritual Journeys
             </h2>
             <p className="mx-auto max-w-[700px] text-muted-foreground">
-              Read how Bhagwat Wisdom has transformed lives through ancient teachings.
+              Read how bhagawad Wisdom has transformed lives through ancient teachings.
             </p>
           </div>
           
@@ -410,7 +410,7 @@ const Index = () => {
                 </CardHeader>
                 <CardContent>
                   <p className="text-muted-foreground">
-                    "The Bhagwat Wisdom app has been a guiding light in my spiritual journey. The daily verses and problem-solving features have helped me navigate life's challenges with peace and clarity."
+                    "The bhagawad Wisdom app has been a guiding light in my spiritual journey. The daily verses and problem-solving features have helped me navigate life's challenges with peace and clarity."
                   </p>
                 </CardContent>
               </Card>

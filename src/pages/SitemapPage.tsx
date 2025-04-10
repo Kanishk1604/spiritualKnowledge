@@ -62,7 +62,7 @@ export function SitemapPage() {
   return (
     <PageLayout
       title="Sitemap"
-      description="Find all pages and resources available on Bhagwat Wisdom"
+      description="Find all pages and resources available on bhagawad Wisdom"
     >
       <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
         {siteLinks.map((category) => (

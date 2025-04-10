@@ -11,8 +11,8 @@ const FAQPage = () => {
   const faqCategories = {
     general: [
       {
-        question: "What is Bhagwat Wisdom?",
-        answer: "Bhagwat Wisdom is a platform that provides spiritual guidance based on the teachings of Bhagavad Gita. We offer features like problem solving advice, dream interpretation, daily mantras, and personalized affirmations based on ancient wisdom adapted for modern life challenges."
+        question: "What is bhagawad Wisdom?",
+        answer: "bhagawad Wisdom is a platform that provides spiritual guidance based on the teachings of Bhagavad Gita. We offer features like problem solving advice, dream interpretation, daily mantras, and personalized affirmations based on ancient wisdom adapted for modern life challenges."
       },
       {
         question: "Is this app based on Hindu religious teachings?",
@@ -23,7 +23,7 @@ const FAQPage = () => {
         answer: "Not at all! Our app is designed for both beginners and those familiar with the teachings. We present the wisdom in an accessible, practical way that doesn't require prior study of the text. For those who wish to learn more, we provide resources for deeper understanding."
       },
       {
-        question: "How can I get the most benefit from Bhagwat Wisdom?",
+        question: "How can I get the most benefit from bhagawad Wisdom?",
         answer: "For the best experience, we recommend using the app regularly. Start with the daily verses for daily inspiration, use the problem solver when facing specific challenges, try the mood-based mantras to align your emotional state, and explore the dream interpreter to gain insights from your subconscious mind."
       }
     ],
@@ -38,7 +38,7 @@ const FAQPage = () => {
       },
       {
         question: "Can I use the app on multiple devices?",
-        answer: "Yes, you can access your Bhagwat Wisdom account from any device with a web browser. Your favorites and settings will sync across all your devices automatically."
+        answer: "Yes, you can access your bhagawad Wisdom account from any device with a web browser. Your favorites and settings will sync across all your devices automatically."
       }
     ],
     premium: [
@@ -70,7 +70,7 @@ const FAQPage = () => {
       },
       {
         question: "Can I suggest new features for the app?",
-        answer: "Absolutely! We welcome user feedback and suggestions. Please visit our Contact page to share your ideas for improving Bhagwat Wisdom or adding new features that would enhance your spiritual journey."
+        answer: "Absolutely! We welcome user feedback and suggestions. Please visit our Contact page to share your ideas for improving bhagawad Wisdom or adding new features that would enhance your spiritual journey."
       }
     ]
   };
@@ -78,7 +78,7 @@ const FAQPage = () => {
   return (
     <PageLayout
       title="Frequently Asked Questions"
-      description="Find answers to common questions about Bhagwat Wisdom and its features."
+      description="Find answers to common questions about bhagawad Wisdom and its features."
     >
       <Tabs defaultValue="general" className="w-full">
         <TabsList className="grid grid-cols-4 mb-8">

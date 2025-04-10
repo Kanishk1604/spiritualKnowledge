@@ -99,8 +99,8 @@ const ContactPage = () => {
                 <div>
                   <h4 className="font-medium">Email Address</h4>
                   <p className="text-muted-foreground mt-1">
-                    support@bhagwatwisdom.com<br />
-                    info@bhagwatwisdom.com
+                    support@bhagawadwisdom.com<br />
+                    info@bhagawadwisdom.com
                   </p>
                 </div>
               </div>

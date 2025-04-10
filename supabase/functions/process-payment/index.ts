@@ -96,7 +96,7 @@ async function createPayPalOrder(planId: string) {
             },
           ],
           application_context: {
-            brand_name: 'Bhagwat Wisdom',
+            brand_name: 'bhagawad Wisdom',
             shipping_preference: 'NO_SHIPPING',
             user_action: 'PAY_NOW',
             return_url: `${supabaseUrl}/functions/v1/payment-callback?provider=paypal&plan=${planId}`,
