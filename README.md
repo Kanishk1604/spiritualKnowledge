@@ -25,7 +25,6 @@
         ↓
 [ User sees wisdom 🙏 ✨ ]
 
-
 Future updates:
 [ Dataset ]
   - Gita.json
