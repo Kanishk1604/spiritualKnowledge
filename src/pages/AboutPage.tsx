@@ -12,7 +12,7 @@ const AboutPage = () => {
     >
       <div className="prose prose-lg dark:prose-invert max-w-none">
         <p className="lead">
-          bhagawad Wisdom was founded with a simple yet profound mission: to make the timeless teachings of Bhagavad Gita accessible and applicable to modern life.
+          Bhagawad Wisdom was founded with a simple yet profound mission: to make the timeless teachings of Bhagavad Gita accessible and applicable to modern life.
         </p>
 
         <h2>Our Mission</h2>
@@ -22,7 +22,7 @@ const AboutPage = () => {
 
         <h2>Our Story</h2>
         <p>
-          bhagawad Wisdom began as a personal journey of its founders, who found profound transformation through the teachings of the Bhagavad Gita during their own life challenges. Recognizing the universal applicability of these teachings, they created this platform to share this wisdom with others seeking guidance.
+          Bhagawad Wisdom began as a personal journey of its founders, who found profound transformation through the teachings of the Bhagavad Gita during their own life challenges. Recognizing the universal applicability of these teachings, they created this platform to share this wisdom with others seeking guidance.
         </p>
 
         <h2>Our Approach</h2>

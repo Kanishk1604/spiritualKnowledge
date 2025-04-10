@@ -32,7 +32,7 @@ export function PremiumUpgrade() {
         <CardHeader>
           <CardTitle className="text-gradient">You're Premium!</CardTitle>
           <CardDescription>
-            Thank you for supporting bhagawad Wisdom. Enjoy all premium benefits.
+            Thank you for supporting Bhagawad Wisdom. Enjoy all premium benefits.
           </CardDescription>
         </CardHeader>
         <CardContent>

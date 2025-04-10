@@ -125,7 +125,7 @@ const DocumentationPage = () => {
           <Card>
             <CardHeader>
               <CardTitle>API Documentation</CardTitle>
-              <CardDescription>Integrate bhagawad Wisdom into your applications</CardDescription>
+              <CardDescription>Integrate Bhagawad Wisdom into your applications</CardDescription>
             </CardHeader>
             <CardContent>
               <p className="mb-4">
