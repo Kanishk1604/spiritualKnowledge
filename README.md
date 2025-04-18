@@ -38,7 +38,8 @@ Future updates:
 
 This project is built with .
 
-- Vite
+- Python
+- Flask
 - TypeScript
 - React
 - shadcn-ui
