@@ -9,7 +9,7 @@ const RefundPage = () => {
     >
       <div className="prose prose-lg dark:prose-invert max-w-none">
         <p className="lead">
-          This policy outlines the procedures and guidelines for cancellations and refunds related to Bhagawad Wisdom premium subscriptions.
+          This policy outlines the procedures and guidelines for cancellations and refunds related to Bhagavad Wisdom premium subscriptions.
         </p>
 
         <h2>1. Subscription Cancellation</h2>
@@ -44,7 +44,7 @@ const RefundPage = () => {
         <h2>4. Refund Process</h2>
         <p>To request a refund:</p>
         <ol>
-          <li>Contact our support team at support@Bhagawadwisdom.com</li>
+          <li>Contact our support team at support@Bhagavadwisdom.com</li>
           <li>Include your account email and order information</li>
           <li>Explain the reason for your refund request</li>
         </ol>
@@ -57,7 +57,7 @@ const RefundPage = () => {
         <p>If we change subscription prices, we will notify you at least 30 days in advance. Price changes will take effect at the next billing cycle after notification.</p>
 
         <h2>7. Contact Information</h2>
-        <p>For any questions regarding cancellations or refunds, please contact our support team at support@Bhagawadwisdom.com.</p>
+        <p>For any questions regarding cancellations or refunds, please contact our support team at support@Bhagavadwisdom.com.</p>
 
         <p className="text-muted-foreground mt-8">Last updated: June 15, 2023</p>
       </div>

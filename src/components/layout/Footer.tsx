@@ -9,10 +9,10 @@ export function Footer() {
     <footer className="w-full py-10 bg-[#0f1525] text-white">
       <div className="container mx-auto px-4 sm:px-6 lg:px-8">
         <div className="grid grid-cols-1 gap-8 sm:grid-cols-2 md:grid-cols-4 lg:gap-12">
-          {/* Bhagawad Wisdom */}
+          {/* Bhagavad Wisdom */}
           <div className="space-y-4">
             <h3 className="font-heading text-2xl font-bold">
-              Bhagawad Wisdom
+              Bhagavad Wisdom
             </h3>
             <p className="text-sm text-gray-300 max-w-xs leading-relaxed">
               Discover ancient wisdom for modern life through the timeless teachings of the Bhagavad Gita.
@@ -135,7 +135,7 @@ export function Footer() {
             </div>
 
             <p className="text-sm text-gray-400">
-              © {year} Bhagawad Wisdom. All rights reserved.
+              © {year} Bhagavad Wisdom. All rights reserved.
             </p>
           </div>
         </div>

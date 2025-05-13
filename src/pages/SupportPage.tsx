@@ -34,7 +34,7 @@ const SupportPage = () => {
   return (
     <PageLayout
       title="Support Center"
-      description="Get help with any issues or questions about Bhagawad Wisdom."
+      description="Get help with any issues or questions about Bhagavad Wisdom."
     >
       <Tabs defaultValue="help" className="w-full">
         <TabsList className="grid grid-cols-4 mb-8">
@@ -208,7 +208,7 @@ const SupportPage = () => {
                     <Mail className="h-5 w-5 text-primary mt-0.5" />
                     <div>
                       <h4 className="font-medium">Email Support</h4>
-                      <p className="text-sm text-muted-foreground">support@Bhagawadwisdom.com</p>
+                      <p className="text-sm text-muted-foreground">support@Bhagavadwisdom.com</p>
                       <p className="text-xs text-muted-foreground mt-1">For general inquiries and support</p>
                     </div>
                   </div>
@@ -348,12 +348,12 @@ const SupportPage = () => {
             <CardHeader>
               <CardTitle>Documentation</CardTitle>
               <CardDescription>
-                Comprehensive guides and resources to help you make the most of Bhagawad Wisdom.
+                Comprehensive guides and resources to help you make the most of Bhagavad Wisdom.
               </CardDescription>
             </CardHeader>
             <CardContent>
               <p className="mb-4">
-                Our documentation provides detailed information about all the features and functionality of Bhagawad Wisdom, along with guides on how to use them effectively.
+                Our documentation provides detailed information about all the features and functionality of Bhagavad Wisdom, along with guides on how to use them effectively.
               </p>
               <Button asChild>
                 <Link to="/documentation">Browse Documentation</Link>

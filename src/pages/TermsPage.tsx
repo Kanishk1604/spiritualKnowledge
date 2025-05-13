@@ -9,7 +9,7 @@ const TermsPage = () => {
     >
       <div className="prose prose-lg dark:prose-invert max-w-none">
         <p className="lead">
-          These Terms of Service ("Terms") govern your access to and use of Bhagawad Wisdom website and services ("Services"). By accessing or using our Services, you agree to be bound by these Terms.
+          These Terms of Service ("Terms") govern your access to and use of Bhagavad Wisdom website and services ("Services"). By accessing or using our Services, you agree to be bound by these Terms.
         </p>
 
         <h2>1. Acceptance of Terms</h2>
@@ -90,7 +90,7 @@ const TermsPage = () => {
 
         <h2>10. Indemnification</h2>
         <p>
-          You agree to indemnify, defend, and hold harmless Bhagawad Wisdom and its officers, directors, employees, agents, and affiliates from and against any and all claims, liabilities, damages, losses, costs, expenses, or fees (including reasonable attorneys' fees) arising from:
+          You agree to indemnify, defend, and hold harmless Bhagavad Wisdom and its officers, directors, employees, agents, and affiliates from and against any and all claims, liabilities, damages, losses, costs, expenses, or fees (including reasonable attorneys' fees) arising from:
         </p>
         <ol>
           <li>Your use of our Services</li>
@@ -121,7 +121,7 @@ const TermsPage = () => {
 
         <h2>15. Contact Information</h2>
         <p>
-          If you have any questions about these Terms, please contact us at legal@Bhagawadwisdom.com.
+          If you have any questions about these Terms, please contact us at legal@Bhagavadwisdom.com.
         </p>
 
         <p className="text-muted-foreground mt-8">Last Updated: June 1, 2023</p>
