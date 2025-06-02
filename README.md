@@ -1,7 +1,5 @@
-[ User (Browser) ]
-        |
-        |   👉 Enters spiritual question (English/Hindi)
-        ↓
+[ User (Browser) ]-> Enters spiritual question (English/Hindi)\\
+        
 [ Frontend: React.js App 🌐 ]
         |
         |   🔗 API Call (POST /api/ask)
