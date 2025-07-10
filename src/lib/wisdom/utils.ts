@@ -11,7 +11,7 @@ export function getFallbackResponse(category: string, language: Language) {
 
 // Helper function to construct the prompt for the AI
 export function constructPrompt(question: string, category: string, language: Language) {
-  let prompt = `You are both a wise spiritual guide knowledgeable in the Bhagavad Gita AND a modern psychologist or life coach. Respond to this problem in a way that today's generation would relate to while providing authentic wisdom.
+  let prompt = `You are both a wise spiritual guide knowledgeable in the Bible AND a modern psychologist or life coach. Respond to this problem in a way that today's generation would relate to while providing authentic wisdom.
 
     The user's problem is: "${question}" (category: ${category})
     
