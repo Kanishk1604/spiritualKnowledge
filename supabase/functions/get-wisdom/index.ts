@@ -19,7 +19,7 @@ serve(async (req) => {
   try {
     // Get the API key from environment variables and log status
     // Using a valid API key for Gemini as fallback
-    const GEMINI_API_KEY = Deno.env.get('GEMINI_API_KEY') || 'AIzaSyDfDU4BIRp9O9j1R8NDy5wUQLl4s3GZKHM';
+    const GEMINI_API_KEY = Deno.env.get('GEMINI_API_KEY') || 'AIzaSyAZHdvgLoLDF4-nezD61BbDZyUBpm_QPOY';
     
     // Log the beginning of the function execution with timestamp
     console.log(`[${new Date().toISOString()}] Edge function started`);
